@@ -30,7 +30,6 @@ This project follows a standard Business Intelligence workflow:
 
 
 ## Power BI Dashboard
-![Flight Insights Dashboard](screenshot.png) *(Include a screenshot of your dashboard here)*
 
 The Power BI dashboard includes the following key visualisations:
 
